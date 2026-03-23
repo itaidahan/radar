@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Israel Weather Radar</title>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+      crossorigin=""
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body class="fullscreen">
+    <div id="radar-map" aria-label="Israel map with radar overlay"></div>
+
+    <div class="hud" aria-label="Radar controls">
+      <div class="hud-row hud-row-top">
+        <div class="hud-frame">
+          <div class="hud-frame-label" id="frame-label">No data yet</div>
+          <div class="hud-frame-sub">
+            <span class="status-pill" id="feed-status">Connecting</span>
+            <span class="status-text" id="updated-at">Waiting for radar feed</span>
+          </div>
+        </div>
+
+        <div class="hud-controls">
+          <button class="control-button" id="play-toggle" type="button">Play</button>
+          <button class="control-button" id="refresh-button" type="button">Refresh</button>
+
+          <label class="hud-control" for="speed-select">
+            Speed
+            <select id="speed-select">
+              <option value="1300">Slow</option>
+              <option value="900" selected>Normal</option>
+              <option value="550">Fast</option>
+            </select>
+          </label>
+
+          <label class="hud-control" for="opacity-slider">
+            Opacity
+            <input id="opacity-slider" type="range" min="20" max="100" value="90" step="1" />
+          </label>
+
+          <label class="hud-control hud-toggle" for="lightning-toggle">
+            Lightning
+            <input id="lightning-toggle" type="checkbox" />
+          </label>
+        </div>
+      </div>
+
+      <div class="hud-row hud-row-timeline">
+        <div class="hud-timeline-header">
+          <span id="frame-index">0 / 0</span>
+          <span class="hud-stats">
+            Frames <strong id="frame-count">0</strong>
+            Lightning <strong id="lightning-count">Off</strong>
+          </span>
+        </div>
+        <input id="timeline" type="range" min="0" max="0" value="0" step="1" />
+        <div class="timeline-meta">
+          <span id="timeline-start">No frames</span>
+          <span id="timeline-current">Current frame</span>
+          <span id="timeline-end">No frames</span>
+        </div>
+      </div>
+    </div>
+
+    <script
+      src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+      crossorigin=""
+    ></script>
+    <script src="/app.js" defer></script>
+  </body>
+  </html>
