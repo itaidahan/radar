@@ -1,0 +1,513 @@
+﻿[
+    {
+        "id":  "0-IMSRadar4GIS_202603231400_0.png",
+        "label":  "2026-03-23 14:00:00",
+        "forecastTime":  "2026-03-23 14:00:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231400_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231400_0.png\u0026seek=forward"
+    },
+    {
+        "id":  "1-IMSRadar4GIS_202603231405_0.png",
+        "label":  "2026-03-23 14:05:00",
+        "forecastTime":  "2026-03-23 14:05:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231405_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231405_0.png\u0026seek=forward"
+    },
+    {
+        "id":  "2-IMSRadar4GIS_202603231410_0.png",
+        "label":  "2026-03-23 14:10:00",
+        "forecastTime":  "2026-03-23 14:10:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231410_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231410_0.png\u0026seek=forward"
+    },
+    {
+        "id":  "3-IMSRadar4GIS_202603231415_0.png",
+        "label":  "2026-03-23 14:15:00",
+        "forecastTime":  "2026-03-23 14:15:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231415_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231415_0.png\u0026seek=forward"
+    },
+    {
+        "id":  "4-IMSRadar4GIS_202603231420_0.png",
+        "label":  "2026-03-23 14:20:00",
+        "forecastTime":  "2026-03-23 14:20:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231420_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231420_0.png\u0026seek=forward"
+    },
+    {
+        "id":  "5-IMSRadar4GIS_202603231425_0.png",
+        "label":  "2026-03-23 14:25:00",
+        "forecastTime":  "2026-03-23 14:25:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231425_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231425_0.png\u0026seek=forward"
+    },
+    {
+        "id":  "6-IMSRadar4GIS_202603231430_0.png",
+        "label":  "2026-03-23 14:30:00",
+        "forecastTime":  "2026-03-23 14:30:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231430_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231430_0.png\u0026seek=forward"
+    },
+    {
+        "id":  "7-IMSRadar4GIS_202603231435_0.png",
+        "label":  "2026-03-23 14:35:00",
+        "forecastTime":  "2026-03-23 14:35:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231435_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231435_0.png\u0026seek=forward"
+    },
+    {
+        "id":  "8-IMSRadar4GIS_202603231440_0.png",
+        "label":  "2026-03-23 14:40:00",
+        "forecastTime":  "2026-03-23 14:40:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231440_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231440_0.png\u0026seek=forward"
+    },
+    {
+        "id":  "9-IMSRadar4GIS_202603231445_0.png",
+        "label":  "2026-03-23 14:45:00",
+        "forecastTime":  "2026-03-23 14:45:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231445_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231445_0.png\u0026seek=forward"
+    },
+    {
+        "id":  "10-IMSRadar4GIS_202603231450_0.png",
+        "label":  "2026-03-23 14:50:00",
+        "forecastTime":  "2026-03-23 14:50:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231450_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231450_0.png\u0026seek=forward"
+    },
+    {
+        "id":  "11-IMSRadar4GIS_202603231455_0.png",
+        "label":  "2026-03-23 14:55:00",
+        "forecastTime":  "2026-03-23 14:55:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231455_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231455_0.png\u0026seek=forward"
+    },
+    {
+        "id":  "12-IMSRadar4GIS_202603231500_0.png",
+        "label":  "2026-03-23 15:00:00",
+        "forecastTime":  "2026-03-23 15:00:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231500_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231500_0.png\u0026seek=forward"
+    },
+    {
+        "id":  "13-IMSRadar4GIS_202603231505_0.png",
+        "label":  "2026-03-23 15:05:00",
+        "forecastTime":  "2026-03-23 15:05:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231505_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231505_0.png\u0026seek=forward"
+    },
+    {
+        "id":  "14-IMSRadar4GIS_202603231510_0.png",
+        "label":  "2026-03-23 15:10:00",
+        "forecastTime":  "2026-03-23 15:10:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231510_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231510_0.png\u0026seek=forward"
+    },
+    {
+        "id":  "15-IMSRadar4GIS_202603231515_0.png",
+        "label":  "2026-03-23 15:15:00",
+        "forecastTime":  "2026-03-23 15:15:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231515_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231515_0.png\u0026seek=forward"
+    },
+    {
+        "id":  "16-IMSRadar4GIS_202603231520_0.png",
+        "label":  "2026-03-23 15:20:00",
+        "forecastTime":  "2026-03-23 15:20:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231520_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231520_0.png\u0026seek=forward"
+    },
+    {
+        "id":  "17-IMSRadar4GIS_202603231525_0.png",
+        "label":  "2026-03-23 15:25:00",
+        "forecastTime":  "2026-03-23 15:25:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231525_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231525_0.png\u0026seek=forward"
+    },
+    {
+        "id":  "18-IMSRadar4GIS_202603231530_0.png",
+        "label":  "2026-03-23 15:30:00",
+        "forecastTime":  "2026-03-23 15:30:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231530_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231530_0.png\u0026seek=forward"
+    },
+    {
+        "id":  "19-IMSRadar4GIS_202603231535_0.png",
+        "label":  "2026-03-23 15:35:00",
+        "forecastTime":  "2026-03-23 15:35:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231535_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231535_0.png\u0026seek=forward"
+    },
+    {
+        "id":  "20-IMSRadar4GIS_202603231540_0.png",
+        "label":  "2026-03-23 15:40:00",
+        "forecastTime":  "2026-03-23 15:40:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231540_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231540_0.png\u0026seek=forward"
+    },
+    {
+        "id":  "21-IMSRadar4GIS_202603231545_0.png",
+        "label":  "2026-03-23 15:45:00",
+        "forecastTime":  "2026-03-23 15:45:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231545_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231545_0.png\u0026seek=forward"
+    },
+    {
+        "id":  "22-IMSRadar4GIS_202603231550_0.png",
+        "label":  "2026-03-23 15:50:00",
+        "forecastTime":  "2026-03-23 15:50:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231550_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231550_0.png\u0026seek=forward"
+    },
+    {
+        "id":  "23-IMSRadar4GIS_202603231555_0.png",
+        "label":  "2026-03-23 15:55:00",
+        "forecastTime":  "2026-03-23 15:55:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231555_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231555_0.png\u0026seek=forward"
+    },
+    {
+        "id":  "24-IMSRadar4GIS_202603231600_0.png",
+        "label":  "2026-03-23 16:00:00",
+        "forecastTime":  "2026-03-23 16:00:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231600_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231600_0.png\u0026seek=forward"
+    },
+    {
+        "id":  "25-IMSRadar4GIS_202603231605_0.png",
+        "label":  "2026-03-23 16:05:00",
+        "forecastTime":  "2026-03-23 16:05:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231605_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231605_0.png\u0026seek=forward"
+    },
+    {
+        "id":  "26-IMSRadar4GIS_202603231610_0.png",
+        "label":  "2026-03-23 16:10:00",
+        "forecastTime":  "2026-03-23 16:10:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231610_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231610_0.png\u0026seek=forward"
+    },
+    {
+        "id":  "27-IMSRadar4GIS_202603231615_0.png",
+        "label":  "2026-03-23 16:15:00",
+        "forecastTime":  "2026-03-23 16:15:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231615_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231615_0.png\u0026seek=forward"
+    },
+    {
+        "id":  "28-IMSRadar4GIS_202603231620_0.png",
+        "label":  "2026-03-23 16:20:00",
+        "forecastTime":  "2026-03-23 16:20:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231620_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231620_0.png\u0026seek=forward"
+    },
+    {
+        "id":  "29-IMSRadar4GIS_202603231625_0.png",
+        "label":  "2026-03-23 16:25:00",
+        "forecastTime":  "2026-03-23 16:25:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231625_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231625_0.png\u0026seek=forward"
+    },
+    {
+        "id":  "30-IMSRadar4GIS_202603231630_0.png",
+        "label":  "2026-03-23 16:30:00",
+        "forecastTime":  "2026-03-23 16:30:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231630_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231630_0.png\u0026seek=forward"
+    },
+    {
+        "id":  "31-IMSRadar4GIS_202603231635_0.png",
+        "label":  "2026-03-23 16:35:00",
+        "forecastTime":  "2026-03-23 16:35:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231635_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231635_0.png\u0026seek=forward"
+    },
+    {
+        "id":  "32-IMSRadar4GIS_202603231640_0.png",
+        "label":  "2026-03-23 16:40:00",
+        "forecastTime":  "2026-03-23 16:40:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231640_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231640_0.png\u0026seek=forward"
+    },
+    {
+        "id":  "33-IMSRadar4GIS_202603231645_0.png",
+        "label":  "2026-03-23 16:45:00",
+        "forecastTime":  "2026-03-23 16:45:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231645_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231645_0.png\u0026seek=forward"
+    },
+    {
+        "id":  "34-IMSRadar4GIS_202603231650_0.png",
+        "label":  "2026-03-23 16:50:00",
+        "forecastTime":  "2026-03-23 16:50:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231650_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231650_0.png\u0026seek=forward"
+    },
+    {
+        "id":  "35-IMSRadar4GIS_202603231655_0.png",
+        "label":  "2026-03-23 16:55:00",
+        "forecastTime":  "2026-03-23 16:55:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231655_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231655_0.png\u0026seek=forward"
+    },
+    {
+        "id":  "36-IMSRadar4GIS_202603231700_0.png",
+        "label":  "2026-03-23 17:00:00",
+        "forecastTime":  "2026-03-23 17:00:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231700_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231700_0.png\u0026seek=forward"
+    },
+    {
+        "id":  "37-IMSRadar4GIS_202603231705_0.png",
+        "label":  "2026-03-23 17:05:00",
+        "forecastTime":  "2026-03-23 17:05:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231705_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231705_0.png\u0026seek=forward"
+    },
+    {
+        "id":  "38-IMSRadar4GIS_202603231710_0.png",
+        "label":  "2026-03-23 17:10:00",
+        "forecastTime":  "2026-03-23 17:10:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231710_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231710_0.png\u0026seek=forward"
+    },
+    {
+        "id":  "39-IMSRadar4GIS_202603231715_0.png",
+        "label":  "2026-03-23 17:15:00",
+        "forecastTime":  "2026-03-23 17:15:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231715_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231715_0.png\u0026seek=forward"
+    },
+    {
+        "id":  "40-IMSRadar4GIS_202603231720_0.png",
+        "label":  "2026-03-23 17:20:00",
+        "forecastTime":  "2026-03-23 17:20:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231720_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231720_0.png\u0026seek=forward"
+    },
+    {
+        "id":  "41-IMSRadar4GIS_202603231725_0.png",
+        "label":  "2026-03-23 17:25:00",
+        "forecastTime":  "2026-03-23 17:25:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231725_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231725_0.png\u0026seek=forward"
+    },
+    {
+        "id":  "42-IMSRadar4GIS_202603231730_0.png",
+        "label":  "2026-03-23 17:30:00",
+        "forecastTime":  "2026-03-23 17:30:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231730_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231730_0.png\u0026seek=forward"
+    },
+    {
+        "id":  "43-IMSRadar4GIS_202603231735_0.png",
+        "label":  "2026-03-23 17:35:00",
+        "forecastTime":  "2026-03-23 17:35:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231735_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231735_0.png\u0026seek=forward"
+    },
+    {
+        "id":  "44-IMSRadar4GIS_202603231740_0.png",
+        "label":  "2026-03-23 17:40:00",
+        "forecastTime":  "2026-03-23 17:40:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231740_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231740_0.png\u0026seek=forward"
+    },
+    {
+        "id":  "45-IMSRadar4GIS_202603231745_0.png",
+        "label":  "2026-03-23 17:45:00",
+        "forecastTime":  "2026-03-23 17:45:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231745_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231745_0.png\u0026seek=forward"
+    },
+    {
+        "id":  "46-IMSRadar4GIS_202603231750_0.png",
+        "label":  "2026-03-23 17:50:00",
+        "forecastTime":  "2026-03-23 17:50:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231750_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231750_0.png\u0026seek=forward"
+    },
+    {
+        "id":  "47-IMSRadar4GIS_202603231755_0.png",
+        "label":  "2026-03-23 17:55:00",
+        "forecastTime":  "2026-03-23 17:55:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231755_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231755_0.png\u0026seek=forward"
+    },
+    {
+        "id":  "48-IMSRadar4GIS_202603231800_0.png",
+        "label":  "2026-03-23 18:00:00",
+        "forecastTime":  "2026-03-23 18:00:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231800_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231800_0.png\u0026seek=forward"
+    },
+    {
+        "id":  "49-IMSRadar4GIS_202603231805_0.png",
+        "label":  "2026-03-23 18:05:00",
+        "forecastTime":  "2026-03-23 18:05:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231805_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231805_0.png\u0026seek=forward"
+    },
+    {
+        "id":  "50-IMSRadar4GIS_202603231810_0.png",
+        "label":  "2026-03-23 18:10:00",
+        "forecastTime":  "2026-03-23 18:10:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231810_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231810_0.png\u0026seek=forward"
+    },
+    {
+        "id":  "51-IMSRadar4GIS_202603231815_0.png",
+        "label":  "2026-03-23 18:15:00",
+        "forecastTime":  "2026-03-23 18:15:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231815_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231815_0.png\u0026seek=forward"
+    },
+    {
+        "id":  "52-IMSRadar4GIS_202603231820_0.png",
+        "label":  "2026-03-23 18:20:00",
+        "forecastTime":  "2026-03-23 18:20:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231820_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231820_0.png\u0026seek=backward"
+    },
+    {
+        "id":  "53-IMSRadar4GIS_202603231825_0.png",
+        "label":  "2026-03-23 18:25:00",
+        "forecastTime":  "2026-03-23 18:25:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231825_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231825_0.png\u0026seek=backward"
+    },
+    {
+        "id":  "54-IMSRadar4GIS_202603231830_0.png",
+        "label":  "2026-03-23 18:30:00",
+        "forecastTime":  "2026-03-23 18:30:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231830_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231830_0.png\u0026seek=backward"
+    },
+    {
+        "id":  "55-IMSRadar4GIS_202603231835_0.png",
+        "label":  "2026-03-23 18:35:00",
+        "forecastTime":  "2026-03-23 18:35:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231835_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231835_0.png\u0026seek=backward"
+    },
+    {
+        "id":  "56-IMSRadar4GIS_202603231840_0.png",
+        "label":  "2026-03-23 18:40:00",
+        "forecastTime":  "2026-03-23 18:40:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231840_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231840_0.png\u0026seek=backward"
+    },
+    {
+        "id":  "57-IMSRadar4GIS_202603231845_0.png",
+        "label":  "2026-03-23 18:45:00",
+        "forecastTime":  "2026-03-23 18:45:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231845_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231845_0.png\u0026seek=backward"
+    },
+    {
+        "id":  "58-IMSRadar4GIS_202603231850_0.png",
+        "label":  "2026-03-23 18:50:00",
+        "forecastTime":  "2026-03-23 18:50:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231850_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231850_0.png\u0026seek=backward"
+    },
+    {
+        "id":  "59-IMSRadar4GIS_202603231855_0.png",
+        "label":  "2026-03-23 18:55:00",
+        "forecastTime":  "2026-03-23 18:55:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231855_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231855_0.png\u0026seek=backward"
+    },
+    {
+        "id":  "60-IMSRadar4GIS_202603231900_0.png",
+        "label":  "2026-03-23 19:00:00",
+        "forecastTime":  "2026-03-23 19:00:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231900_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231900_0.png\u0026seek=backward"
+    },
+    {
+        "id":  "61-IMSRadar4GIS_202603231905_0.png",
+        "label":  "2026-03-23 19:05:00",
+        "forecastTime":  "2026-03-23 19:05:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231905_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231905_0.png\u0026seek=backward"
+    },
+    {
+        "id":  "62-IMSRadar4GIS_202603231910_0.png",
+        "label":  "2026-03-23 19:10:00",
+        "forecastTime":  "2026-03-23 19:10:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231910_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231910_0.png\u0026seek=backward"
+    },
+    {
+        "id":  "63-IMSRadar4GIS_202603231915_0.png",
+        "label":  "2026-03-23 19:15:00",
+        "forecastTime":  "2026-03-23 19:15:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231915_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231915_0.png\u0026seek=backward"
+    },
+    {
+        "id":  "64-IMSRadar4GIS_202603231920_0.png",
+        "label":  "2026-03-23 19:20:00",
+        "forecastTime":  "2026-03-23 19:20:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231920_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231920_0.png\u0026seek=backward"
+    },
+    {
+        "id":  "65-IMSRadar4GIS_202603231925_0.png",
+        "label":  "2026-03-23 19:25:00",
+        "forecastTime":  "2026-03-23 19:25:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231925_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231925_0.png\u0026seek=backward"
+    },
+    {
+        "id":  "66-IMSRadar4GIS_202603231930_0.png",
+        "label":  "2026-03-23 19:30:00",
+        "forecastTime":  "2026-03-23 19:30:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231930_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231930_0.png\u0026seek=backward"
+    },
+    {
+        "id":  "67-IMSRadar4GIS_202603231935_0.png",
+        "label":  "2026-03-23 19:35:00",
+        "forecastTime":  "2026-03-23 19:35:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231935_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231935_0.png\u0026seek=backward"
+    },
+    {
+        "id":  "68-IMSRadar4GIS_202603231940_0.png",
+        "label":  "2026-03-23 19:40:00",
+        "forecastTime":  "2026-03-23 19:40:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231940_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231940_0.png\u0026seek=backward"
+    },
+    {
+        "id":  "69-IMSRadar4GIS_202603231945_0.png",
+        "label":  "2026-03-23 19:45:00",
+        "forecastTime":  "2026-03-23 19:45:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231945_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231945_0.png\u0026seek=backward"
+    },
+    {
+        "id":  "70-IMSRadar4GIS_202603231950_0.png",
+        "label":  "2026-03-23 19:50:00",
+        "forecastTime":  "2026-03-23 19:50:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231950_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231950_0.png\u0026seek=backward"
+    },
+    {
+        "id":  "71-IMSRadar4GIS_202603231955_0.png",
+        "label":  "2026-03-23 19:55:00",
+        "forecastTime":  "2026-03-23 19:55:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603231955_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603231955_0.png\u0026seek=backward"
+    },
+    {
+        "id":  "72-IMSRadar4GIS_202603232000_0.png",
+        "label":  "2026-03-23 20:00:00",
+        "forecastTime":  "2026-03-23 20:00:00",
+        "upstreamPath":  "/sites/default/files/ims_data/map_images/IMSRadar4GIS/IMSRadar4GIS_202603232000_0.png",
+        "imageUrl":  "/api/image?path=%2Fsites%2Fdefault%2Ffiles%2Fims_data%2Fmap_images%2FIMSRadar4GIS%2FIMSRadar4GIS_202603232000_0.png\u0026seek=backward"
+    }
+]
